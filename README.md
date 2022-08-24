@@ -31,3 +31,13 @@ Time: 30m
 Type: 爬楼梯
 
 Time: 20m
+
+
+
++ 24
+
+
+
+Type:  二头、三头、腹
+
+Time: 60m
