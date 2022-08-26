@@ -41,3 +41,18 @@ Time: 20m
 Type:  二头、三头、腹
 
 Time: 60m
+
+
+
++ 25
+
+
+
+Type: 肩前中后束
+
+Time: 60m
+
+
+
+Type: 爬楼梯
+Time: 30m
