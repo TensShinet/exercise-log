@@ -56,3 +56,21 @@ Time: 60m
 
 Type: 爬楼梯
 Time: 30m
+
+
+
+
+
++ 26 
+
+
+
+Type: 爬楼梯
+
+Time: 30min
+
+
+
+Type: 哑铃推胸
+
+Time: 20min
