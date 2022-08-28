@@ -74,3 +74,29 @@ Time: 30min
 Type: 哑铃推胸
 
 Time: 20min
+
+
+
++ 27
+
+
+
+Type: 爬楼梯
+
+Time: 30min
+
+
+
+Type: 二头、三头
+
+Time: 60m
+
+
+
++ 28
+
+
+
+Type: 背
+
+Time: 30m
