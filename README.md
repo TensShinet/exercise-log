@@ -100,3 +100,13 @@ Time: 60m
 Type: 背
 
 Time: 30m
+
+
+
++ 31
+
+
+
+Type: 胸、三头
+
+Time: 60m
