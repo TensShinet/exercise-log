@@ -136,3 +136,41 @@ Time: 60m
 Type: 二头、腹
 
 Time: 60m
+
+
+
+
+
++ 5
+
+
+
+Type: 二头、胸
+
+Time: 60m
+
+
+
++ 6
+
+
+
+Type: 肩前中后、腹部
+
+Time: 60m
+
+
+
++ 7
+
+
+
+Type: 二头、腹部
+
+Time: 30m
+
+
+
+Type: 爬楼梯
+
+Time: 30m
