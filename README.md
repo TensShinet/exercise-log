@@ -198,3 +198,51 @@ Time: 30m
 Type: 爬楼梯
 
 Time: 30m
+
+
+
++ 16
+
+
+
+Type: 爬楼梯
+
+Time: 40m
+
+
+
++ 17
+
+
+
+Type: 爬楼梯
+
+Time: 30m
+
+
+
+Type: 二头
+
+Time: 20m
+
+
+
+Type: 背
+
+Time: 20m
+
+
+
++ 18 
+
+
+
+Type: 爬楼梯
+
+Time: 40m
+
+
+
+Type: 肩前中后
+
+Time: 30m
