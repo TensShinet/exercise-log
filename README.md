@@ -278,3 +278,23 @@ Time: 20m
 Type: 二头
 
 Time: 20m
+
+
+
++ 25
+
+
+
+Type: 爬楼梯
+
+Time: 30m
+
+
+
++ 27
+
+
+
+Type: 爬楼梯
+
+Time: 40m
