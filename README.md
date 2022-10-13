@@ -366,3 +366,37 @@ Time: 40m
 Type: 腹部
 
 Time: 20m
+
+
+
++ 4
+
+
+
+Type: 爬楼梯
+
+Time: 40m
+
+
+
+
+
++ 5
+
+
+
+Type: 爬楼梯
+
+Time: 40m
+
+
+
+
+
++ 6
+
+
+
+Type: 爬楼梯
+
+Time: 40m
