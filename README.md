@@ -590,3 +590,38 @@ Time: 20m
 Type: 爬楼梯
 
 Time: 25m
+
+
+
++ 28
+
+
+
+Type: 爬楼梯
+
+Time: 40m
+
+
+
++ 29
+
+
+
+Type: 爬楼梯
+
+Time: 25m
+
+
+
++ 30
+
+
+
+Type: 爬楼梯
+
+Time: 25m
+
+
+
+
+
