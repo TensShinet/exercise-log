@@ -636,3 +636,23 @@ Time: 25m
 Type: 爬楼梯
 
 Time: 25m
+
+
+
++ 18
+
+
+
+Type: 爬楼梯
+
+Time: 35m
+
+
+
++ 19
+
+
+
+Type: 爬楼梯
+
+Time: 35m
